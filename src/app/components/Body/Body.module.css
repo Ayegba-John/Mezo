@@ -1,0 +1,20 @@
+.body {
+  background-color: white;
+}
+.body_warpper {
+  border: 2px #b9bcce solid;
+  height: 50rem;
+  background-color: #178631;
+  display: flex;
+  max-width: 76rem;
+  margin: 0 auto 0 auto;
+  justify-content: space-between;
+}
+.body_one {
+  border: 2px yellow solid;
+  height: 60px;
+}
+.body_two {
+  border: 2px brown solid;
+  height: 60px;
+}

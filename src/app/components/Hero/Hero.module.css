@@ -1,0 +1,21 @@
+.Hero {
+  border: 2px white solid;
+  max-width: 76rem;
+  margin: 0 auto;
+  display: flex;
+}
+.Hero_image {
+  margin-top: 4.5rem;
+}
+.stroke {
+  margin-top: 4rem;
+  display: flex;
+  margin-bottom: 1rem;
+  gap: 1rem;
+}
+.text {
+  font-size: xx-large;
+}
+.commerce {
+  color: #02cb62;
+}
