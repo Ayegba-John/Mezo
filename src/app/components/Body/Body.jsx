@@ -1,8 +1,6 @@
-import { useState } from "react";
 import styels from "./Body.module.css";
 
 const body = () => {
-  const [input, setInput] = useState("mark");
   return (
     <div className={styels.body}>
       <div>

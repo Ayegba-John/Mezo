@@ -18,7 +18,7 @@ const Navbar = () => {
               <div>
                 <img src="email-icon.svg" alt="email icon" />
               </div>
-              <div>
+              <div className={styles.text_logo}>
                 <p>Email us</p>
                 <p> hello@mezovest.com</p>
               </div>
@@ -27,7 +27,7 @@ const Navbar = () => {
               <div>
                 <img src="call-icon.svg" alt="call icon" />
               </div>
-              <div>
+              <div className={styles.text_logo}>
                 <p>call us</p>
                 <p>+234 807 400 0005</p>
               </div>
