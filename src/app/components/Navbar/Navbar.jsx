@@ -50,6 +50,13 @@ const Navbar = () => {
           </div>
         </div>
       </div>
+      <div className={styles.santa}>
+        <img
+          className={styles.santa_img}
+          src="banner-santa.png"
+          alt="christmas logo"
+        />
+      </div>
       <Hero />
     </div>
   );

@@ -11,6 +11,7 @@ const Hero = () => {
           <div>
             <img src="green-stroke.svg" alt="green arrow" />
           </div>
+
           <div>Pioneering the future of</div>
         </div>
         <div className={styles.text}>
