@@ -2,6 +2,7 @@
   max-width: 76rem;
   margin: 0 auto;
   display: flex;
+  gap: 4rem;
 }
 .Hero_image {
   margin-top: 4.5rem;
@@ -17,4 +18,8 @@
 }
 .commerce {
   color: #02cb62;
+}
+.text_dwown {
+  color: white;
+  font-size: x-large;
 }
