@@ -1,0 +1,9 @@
+.Wrapper {
+  border: 2px yellow solid;
+  height: 2rem;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  max-width: 76rem;
+  margin: 0 auto 0 auto;
+}
