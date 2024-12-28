@@ -9,7 +9,7 @@ const Navbar = () => {
           <div className={styles.logo}>
             <img
               className={styles.logo_size}
-              src="mezovest-white-logo.svg"
+              src="logo-santa.png"
               alt="Mezovest logo"
             />
           </div>
