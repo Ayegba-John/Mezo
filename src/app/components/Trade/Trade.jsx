@@ -5,6 +5,11 @@ const trade = () => {
     <div className={styles.main}>
       <div className={styles.Wrapper}>
         <div>
+          <img
+            src="swad.svg"
+            alt="group photo
+            "
+          />
           <p>
             Biggest players in the LPG sector Mezo Energy Trading Limited (METL)
             Mezoenergy trading limited is an energy company that has a big
