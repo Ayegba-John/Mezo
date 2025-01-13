@@ -27,10 +27,9 @@ const trade = () => {
             several stakeholders in the LPG value chain. Mezo Energy Image
           </p>
         </div>
-
-        <div className={styles.img}>
-          <img className={styles.cylinder} src="metl cylinder.svg" alt="" />
-        </div>
+      </div>
+      <div className={styles.img}>
+        <img className={styles.cylinder} src="metl cylinder.svg" alt="" />
       </div>
     </div>
   );
