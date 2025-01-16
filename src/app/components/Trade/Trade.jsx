@@ -28,9 +28,6 @@ const trade = () => {
           </p>
         </div>
       </div>
-      <div className={styles.img}>
-        <img className={styles.cylinder} src="metl cylinder.svg" alt="" />
-      </div>
     </div>
   );
 };
