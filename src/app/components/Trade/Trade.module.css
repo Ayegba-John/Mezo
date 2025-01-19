@@ -11,3 +11,15 @@
   max-width: 76rem;
   height: 50rem;
 }
+
+.Wrapper_one {
+  border: 2px solid purple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Wrapper_text {
+  font-size: 120px;
+  padding-right: 60px;
+}

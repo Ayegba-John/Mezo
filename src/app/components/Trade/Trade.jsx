@@ -5,9 +5,9 @@ const trade = () => {
     <div className={styles.main}>
       <div className={styles.Wrapper}>
         <div>
-          <div>
+          <div className={styles.Wrapper_one}>
             <p>
-              <span>Who we are </span>
+              <span className={styles.Wrapper_text}>Who we are </span>
               <br />
               At Mezovest, we are on a mission to revolutionize the commerce
               landscape, and our focus is squarely on the dynamic energy
