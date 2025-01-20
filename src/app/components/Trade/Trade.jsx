@@ -5,6 +5,14 @@ const trade = () => {
     <div className={styles.main}>
       <div className={styles.Wrapper}>
         <div>
+          <div className={styles.stroke}>
+            <div>
+              <img src="green-stroke.svg" alt="green arrow" />
+            </div>
+
+            <div>We want you to succeed</div>
+          </div>
+
           <div className={styles.Wrapper_one}>
             <p>
               <span className={styles.Wrapper_text}>Who we are </span>

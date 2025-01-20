@@ -23,3 +23,11 @@
   font-size: 120px;
   padding-right: 60px;
 }
+.stroke {
+  margin-top: 4rem;
+  display: flex;
+  margin-bottom: 1rem;
+  gap: 1rem;
+  justify-content: center;
+  font-size: larger;
+}
