@@ -31,3 +31,15 @@
   justify-content: center;
   font-size: larger;
 }
+.Wrapper_two {
+  border: 2px red solid;
+  height: 25rem;
+  display: flex;
+  gap: 2rem;
+}
+.same {
+  border: 2px purple solid;
+  height: 20rem;
+  width: 25rem;
+  border-radius: 8px;
+}

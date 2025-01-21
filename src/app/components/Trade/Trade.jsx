@@ -12,7 +12,6 @@ const trade = () => {
 
             <div>We want you to succeed</div>
           </div>
-
           <div className={styles.Wrapper_one}>
             <p>
               <span className={styles.Wrapper_text}>Who we are </span>
@@ -31,6 +30,29 @@ const trade = () => {
             alt="group photo
             "
           />
+          <div className={styles.Wrapper_two}>
+            <div className={styles.same}>
+              {" "}
+              <img src="metl-truck.svg" alt="" />
+              <p>
+                Modern & durable trucks for transporting composite cylinders
+              </p>
+            </div>
+            <div className={styles.same}>
+              <img src="gas-plant.svg" alt="" />
+              <p>
+                Strategic Micro Distribution Centres for fast and reliable
+                deliveries
+              </p>
+            </div>
+            <div className={styles.same}>
+              <img src="metl-trailer.svg" alt="" />
+              <p>Gas reservoirs for storing gas making it readily accessible</p>
+            </div>
+          </div>
+          <div>
+            <button>learn more</button> <button>Exlpore options</button>
+          </div>
         </div>
       </div>
     </div>
