@@ -53,6 +53,13 @@ const trade = () => {
           <div>
             <button>learn more</button> <button>Exlpore options</button>
           </div>
+
+          {/* finiance structure  */}
+
+          <div className={styles.Wrapper_down}>
+            <div className={styles.left}>left</div>
+            <div className={styles.right}>Right</div>
+          </div>
         </div>
       </div>
     </div>
