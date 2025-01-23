@@ -57,7 +57,40 @@ const trade = () => {
           {/* finiance structure  */}
 
           <div className={styles.Wrapper_down}>
-            <div className={styles.left}>left</div>
+            <div className={styles.left}>
+              <div className={styles.stroke}>
+                <div>
+                  <img src="green-stroke.svg" alt="green arrow" />
+                </div>
+
+                <div>We want you to succeed</div>
+              </div>
+              <div>
+                <p>Finance Infrastructure Technology(F.I.T)</p>
+                <ul>
+                  <li>
+                    Finance:Mezovest offers cash loan and inventory financing to
+                    eligible vendors. We offer cash loans by monitoring their
+                    sales and use their volume of sales to determine how much we
+                    can lend to them.
+                  </li>
+                  <li>
+                    Infrastructure:With Mezovest’s unique commerce solution
+                    model, F.I.T, mezovest founded a sister company, Mezo energy
+                    trading limited (METL) which uses supply chain
+                    infrastructures like logistic, micro distribution centres
+                    (MDCs) to supply cooking gas to her vendors since mezovest
+                    currently services the LPG commerce sector
+                  </li>
+                  <li>
+                    Technology:Using technology as leverage, we provide online
+                    marketplaces and payment solutions which enable businesses
+                    to reach customers nationwide, expanding market
+                    opportunities
+                  </li>
+                </ul>
+              </div>
+            </div>
             <div className={styles.right}>Right</div>
           </div>
         </div>
