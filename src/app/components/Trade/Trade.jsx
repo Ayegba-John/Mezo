@@ -91,7 +91,11 @@ const trade = () => {
                 </ul>
               </div>
             </div>
-            <div className={styles.right}>Right</div>
+            <div className={styles.right}>
+              <img src="mez-fit.svg" alt="small group" />
+              <img src="mez.svg" alt="in truck" />
+              <img src="mez-pos.svg" alt="" />
+            </div>
           </div>
         </div>
       </div>
