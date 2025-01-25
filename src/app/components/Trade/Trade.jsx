@@ -96,6 +96,26 @@ const trade = () => {
               <img src="mez.svg" alt="in truck" />
               <img src="mez-pos.svg" alt="" />
             </div>
+            <li>
+              Finance:Mezovest offers cash loan and inventory financing to
+              eligible vendors. We offer cash loans by monitoring their sales
+              and use their volume of sales to determine how much we can lend to
+              them.
+            </li>
+            <li>
+              Infrastructure:With Mezovest’s unique commerce solution model,
+              F.I.T, mezovest founded a sister company, Mezo energy trading
+              limited (METL) which uses supply chain infrastructures like
+              logistic, micro distribution centres (MDCs) to supply cooking gas
+              to her vendors since mezovest currently services the LPG commerce
+              sector
+            </li>
+            <li>
+              Technology:Using technology as leverage, we provide online
+              marketplaces and payment solutions which enable businesses to
+              reach customers nationwide, expanding market opportunities
+            </li>
+            ß
           </div>
         </div>
       </div>
