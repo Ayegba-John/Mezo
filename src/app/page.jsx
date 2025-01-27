@@ -1,17 +1,16 @@
-import Image from "next/image";
 import styles from "./page.module.css";
 import Navbar from "./components/Navbar/Navbar";
-import Body from "./components/Body/Body";
-import Low from "./components/Low/Low";
 import Trade from "./components/Trade/Trade";
+import Mid from "./components/Mid/Mid";
+import Water from "./components/Water/Water";
 
 const page = () => {
   return (
     <div className={styles.navbar}>
       <Navbar />
-      <Body />
       <Trade />
-      <Low />
+
+      <Water />
     </div>
   );
 };
