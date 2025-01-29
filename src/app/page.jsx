@@ -9,7 +9,6 @@ const page = () => {
     <div className={styles.navbar}>
       <Navbar />
       <Trade />
-
       <Water />
     </div>
   );

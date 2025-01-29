@@ -1,6 +1,10 @@
+.main {
+  border: 10px red solid;
+}
+
 .Wrapper {
   border: 2px yellow solid;
-  height: 2rem;
+
   display: flex;
   justify-content: space-between;
   gap: 1rem;
