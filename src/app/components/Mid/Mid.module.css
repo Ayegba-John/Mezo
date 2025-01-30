@@ -1,5 +1,32 @@
-.mid {
-  border: 2px yellow solid;
-  height: 40rem;
-  background-color: black;
+.wrap {
+  max-width: 76rem;
+  border: 2px red solid;
+  margin: 0 auto 0 auto;
+}
+.section_one_first {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+.text {
+  text-align: center;
+  font-size: 4rem;
+}
+.span {
+  color: #1ad31a;
+}
+.first_section {
+  margin-bottom: 3rem;
+}
+.image_one {
+  border-radius: 2rem;
+  max-width: 76rem;
+}
+.InfoCards {
+  display: flex;
+  gap: 1rem;
+}
+.section_three {
+  margin-bottom: 2rem;
 }
