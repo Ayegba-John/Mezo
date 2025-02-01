@@ -51,6 +51,14 @@ const mid = () => {
               text="Gas reservoirs for storing gas making it readily accessible"
             />
           </div>
+          <div className={styles.btn}>
+            <div>
+              <button>Learn more</button>
+            </div>
+            <div>
+              <button>Explore more options</button>
+            </div>
+          </div>
         </section>
         <section></section>
       </div>
