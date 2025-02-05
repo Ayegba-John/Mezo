@@ -27,7 +27,7 @@ const mid = () => {
             </p>
           </div>
         </section>
-        <section className={styles.section_three}>
+        <section className={styles.section_two}>
           <div>
             <img
               className={styles.image_one}
@@ -36,7 +36,7 @@ const mid = () => {
             />
           </div>
         </section>
-        <section>
+        <section className={styles.sec_InfoCrads}>
           <div className={styles.InfoCards}>
             <InfoCards
               pic="metl-truck.svg"
@@ -53,14 +53,34 @@ const mid = () => {
           </div>
           <div className={styles.btn}>
             <div>
-              <button>Learn more</button>
+              <button className={styles.btn_learn}>Learn more</button>
             </div>
             <div>
-              <button>Explore more options</button>
+              <button className={styles.btn_explore}>
+                Explore more options
+              </button>
             </div>
           </div>
         </section>
-        <section></section>
+        <section className={styles.section_three}>
+          <div className={styles.section_three_wrap}>
+            <div className={styles.section_three_left}>
+              <div className={styles.section_three_up}>
+                <div>
+                  <img src="green-stroke.svg" alt="green arrow" />
+                </div>
+                <div>How do we deliver our promise?</div>
+              </div>
+              <div>
+                <h2 className={styles.text_two}>
+                  Finance Infrastructure Technology(F.I.T)
+                </h2>
+              </div>
+            </div>
+
+            <div className={styles.section_three_right}></div>
+          </div>
+        </section>
       </div>
     </div>
   );

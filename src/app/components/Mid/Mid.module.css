@@ -23,15 +23,48 @@
   border-radius: 2rem;
   max-width: 76rem;
 }
+.sec_InfoCrads {
+  margin-bottom: 6rem;
+}
 .InfoCards {
   display: flex;
   gap: 1rem;
+  margin-bottom: 4rem;
 }
-.section_three {
+.section_two {
   margin-bottom: 2rem;
 }
 .btn {
   display: flex;
   justify-content: center;
   gap: 1rem;
+}
+.btn_learn {
+  background-color: #1ad31a;
+  height: 3.5rem;
+  width: 9rem;
+  border: none;
+}
+.btn_explore {
+  height: 3.5rem;
+  width: 12rem;
+}
+.section_three {
+  border: 2px blue solid;
+}
+.section_three_wrap {
+  display: flex;
+}
+.section_three_left {
+  border: yellow;
+}
+.section_three_up {
+  display: flex;
+  margin-bottom: 4rem;
+}
+.section_three_right {
+  border: solid orange;
+}
+.text_two {
+  font-size: 4rem;
 }
