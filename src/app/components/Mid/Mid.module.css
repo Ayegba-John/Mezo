@@ -54,6 +54,7 @@
 }
 .section_three_wrap {
   display: flex;
+  gap: 1rem;
 }
 .section_three_left {
   border: yellow;

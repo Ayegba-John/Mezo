@@ -81,6 +81,20 @@ const mid = () => {
             <div className={styles.section_three_right}></div>
           </div>
         </section>
+        <section>
+          <div>
+            {" "}
+            <img src="mez-fit.svg" alt="" />
+          </div>
+          <div>
+            {" "}
+            <img src="mez.svg" alt="" />
+          </div>
+          <div>
+            {" "}
+            <img src="mez-pos.svg" alt="" />{" "}
+          </div>
+        </section>
       </div>
     </div>
   );
