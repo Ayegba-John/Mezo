@@ -65,6 +65,7 @@
 }
 .section_three_right {
   border: solid orange;
+  display: flex;
 }
 .text_two {
   font-size: 4rem;
