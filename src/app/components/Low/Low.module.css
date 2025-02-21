@@ -2,6 +2,23 @@
   background-color: black;
   min-height: 56rem;
 }
+.wrapper_up {
+  padding-top: 5rem;
+  border: 2px red solid;
+  justify-self: center;
+}
 .Low_top {
+  color: whitesmoke;
+}
+.Low_down {
+  border: 2px blue solid;
+  justify-self: center;
+}
+.text {
+  color: green;
+  font-size: 5rem;
+}
+
+.text_low {
   color: whitesmoke;
 }
