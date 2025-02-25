@@ -17,6 +17,10 @@ const Low = () => {
             Products.
           </p>
         </div>
+        <div>
+            <div> <button></button></div>
+            <div> <button></button></div>
+            <div> <button></button></div>
       </div>
     </div>
   );
