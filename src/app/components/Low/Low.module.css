@@ -22,3 +22,11 @@
 .text_low {
   color: whitesmoke;
 }
+.btn {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+.same {
+  border: 2px red solid;
+}
