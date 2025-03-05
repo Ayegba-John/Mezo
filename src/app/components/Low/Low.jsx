@@ -22,6 +22,11 @@ const Low = () => {
           <div className={styles.same}> two</div>
           <div className={styles.same}> three</div>
         </div>
+        <div className={styles.btn}>
+          <div className={styles.same}>one </div>
+          <div className={styles.same}> two</div>
+          <div className={styles.same}> three</div>
+        </div>
       </div>
     </div>
   );
